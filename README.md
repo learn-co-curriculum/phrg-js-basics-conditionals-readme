@@ -711,3 +711,4 @@ functioning of a large site like Flatbook. They're ubiquitous, so study up!
     * [`if...else` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
     * [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
     * [`switch` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+<p data-visibility='hidden'>PHRG JavaScript Conditionals</p>

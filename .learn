@@ -12,3 +12,5 @@ languages:
   - javascript
 resources:
   - 8
+
+parent_template: git@github.com:learn-co-curriculum/js-basics-conditionals-readme.git
