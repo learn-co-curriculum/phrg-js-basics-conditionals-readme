@@ -702,6 +702,10 @@ permissionsLevel;
 It's easy to imagine hundreds of other conditionals that go into the
 functioning of a large site like Flatbook. They're ubiquitous, so study up!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-basics-conditionals-readme/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-basics-conditionals-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 - MDN
   + [Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Expressions)
